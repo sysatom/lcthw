@@ -53,3 +53,7 @@ dkms.conf
 
 # Project
 .vscode
+tests/*_tests
+tests/*.log
+build
+.idea
